@@ -1,7 +1,6 @@
-<h1 align="center">Hi! I'm Carolina</h1>
+<h1 align="center">Hi! I'm Carolina</h1> 
 <h3 align="center">World Traveler turned Web Developer</h3>
 
-<hr>
 
 - 👯 Currently open to opportunities and looking forward to collaborating on awesome projects⭐
 
@@ -23,8 +22,7 @@
 <a href="https://fb.com/carolina.dorella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="carolina.dorella" height="30" width="40" /></a>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<hr>
+<p align="center"><strong>Languages and Tools:</strong></p>
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
       width="40" height="40" /> </a>

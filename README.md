@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Carolina, World Traveler turned Web Developer</h1> 
+<h1 align="center">Hi! I'm Carolina </h1> 
 <hr>
 
 - 👯 Currently open to opportunities and looking forward to collaborating on awesome projects⭐

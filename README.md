@@ -7,9 +7,9 @@
 
 - 📄 To know more about my experiences, you can take a look at my **[Resume](https://drive.google.com/file/d/1fG6CyPso9AnwvsLvW3xpRFnD9tiZidVC/view)**
 
-- ✏️ I sometimes feel inspired and write articles on **[Medium](https://medium.com/@caroldorella)**
+- ✏️ Sometimes I feel inspired and write articles on **[Medium](https://medium.com/@caroldorella)**
 
-- 🌱 I have recently concluded a **Product Management** course for a broader perspective into the full-cycle of digital product development 
+- 🌱 I recently concluded a **Product Management** course for a broader perspective into the full-cycle of product development 
 
 - 📚 I speak **English, Portuguese, Spanish and enough Italian**
 

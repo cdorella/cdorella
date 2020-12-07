@@ -9,7 +9,7 @@
 
 - ✏️ I sometimes feel inspired and write articles on **[Medium](https://medium.com/@caroldorella)**
 
-- 🌱 I’m currently studying **Product Management** for a broader perspective into the full-cycle of product development 
+- 🌱 I have recently concluded a **Product Management** course for a broader perspective into the full-cycle of digital product development 
 
 - 📚 I speak **English, Portuguese, Spanish and enough Italian**
 

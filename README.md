@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Carolina </h1> 
 <hr>
 
-- 👯 Love collaborating on awesome projects⭐
-
 - 👩‍💻 Check out my **[Portfolio](https://www.carolinadorella.com/)** ✔️
 
 - 📄 To know more about my experiences, you can take a look at my **[Resume](https://drive.google.com/file/d/1fG6CyPso9AnwvsLvW3xpRFnD9tiZidVC/view)**

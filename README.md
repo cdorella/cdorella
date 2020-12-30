@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Carolina </h1> 
 <hr>
 
-- 👯 Currently open to opportunities and looking forward to collaborating on awesome projects⭐
+- 👯 Love collaborating on awesome projects⭐
 
 - 👩‍💻 Check out my **[Portfolio](https://www.carolinadorella.com/)** ✔️
 
@@ -9,7 +9,7 @@
 
 - ✏️ Sometimes I feel inspired and write articles on **[Medium](https://medium.com/@caroldorella)**
 
-- 🌱 I recently concluded a **Product Management** course for a broader perspective into the full-cycle of product development 
+- 🌱 Also concluded a **Product Management** course for a broader perspective into the full-cycle of product development 
 
 - 📚 I speak **English, Portuguese, Spanish and enough Italian**
 

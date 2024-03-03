@@ -11,7 +11,7 @@
 
 - 📚 I speak **English, Portuguese, Spanish and enough Italian**
 
-- ⚡ I'm into **cats, documentaries, concerts, podcasts, wine and traveling (108 countries and counting!) 🌎**
+- ⚡ I'm into **cats, documentaries, concerts, podcasts, wine and traveling (109 countries and counting!) 🌎**
 
 - 📫 Reach out and say hi: **caroldorella@gmail.com** or connect with me: <a href="https://linkedin.com/in/carolinadorella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carolinadorella" height="30" width="40" /></a>
 <a href="https://twitter.com/carolinadorella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="carolinadorella" height="30" width="40" /></a>
